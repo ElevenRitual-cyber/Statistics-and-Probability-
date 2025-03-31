@@ -144,3 +144,8 @@ If dataset = **[30k, 35k, 40k, 40k, 50k, 1M]**, mode = **40k**
 - **Use Median** when data is **skewed** or has **outliers**.  
 - **Use Mode** for **categorical data** or when finding **most frequent values**.  
   [More](https://statisticseasily.com/measures-of-central-tendency-mean-mode-median/)
+
+
+
+  ![image](https://github.com/user-attachments/assets/1b9bf679-3b70-4b37-94df-3735d0962a97)
+
